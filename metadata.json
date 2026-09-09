@@ -1,0 +1,6 @@
+{
+  "name": "Shajra-e-Nasab",
+  "description": "Family Tree & Lineage Builder (شجرہ نسب) to document, explore, and preserve family roots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
